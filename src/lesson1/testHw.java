@@ -3,7 +3,7 @@ package lesson1;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 class Main{
     public static void main(String[] args) {
-        Person person=new Person("Denis",30,240);
+        Person person=new Person("Denis",21,172);
         person.printPersonInfo();
     }
 }
